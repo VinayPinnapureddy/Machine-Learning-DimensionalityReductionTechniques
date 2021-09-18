@@ -1,0 +1,5 @@
+The Link to mnist dataset is 
+
+https://www.kaggle.com/oddrationale/mnist-in-csv
+
+Go to this site and download both mnist_train, mnist_test datasets and use them.
