@@ -40,6 +40,23 @@ PCA:
                                                                                                                 
    ----- Similar to LDA
                                                                                                                 
-   ----- t-SNE tries to preserve Local Structure of data i.e it preserves the Multi Class information.                                                                                                             
-                                                                                                                
-                                                                                                                
+   ----- t-SNE tries to preserve Local Structure of data i.e it preserves the Multi Class information. 
+                                                                                                                  
+                                                                                                                  
+   # Datasets
+   
+     We use the following datasets:
+                                                                                                                  
+     Download link https://gist.github.com/tijptjik/9408623
+                                                                                                                  
+     Download link https://www.kaggle.com/oddrationale/mnist-in-csv
+                                                                                                                  
+     # Installations 
+                                                                                                                  
+                                                                                                                  
+    Requirements
+
+       1) Pyhton 3.6+
+       2) Anaconda
+       3) Jupyter Notebook
+       4) Windows 10                                                                                                            
