@@ -52,5 +52,18 @@ PCA:
      Download link https://www.kaggle.com/oddrationale/mnist-in-csv
                                                                                                                   
                                                                                                                   
+                                                                                                                  
+   # Installations
+                                                                                                                  
+        Requirements
+                                                                                                                  
+          1) Python 3.6+
+                                                                                                                  
+          2) Jupyter Notebooks
+                                                                                                                  
+          3) Anaconda
+                                                                                                                  
+          4)  Windows 10                                                                                                       
+                                                                                                                 
                                                                                                            
                                                                                                       
