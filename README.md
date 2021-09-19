@@ -22,7 +22,7 @@ PCA:
 
    ----- Linear transformation technique used for dimensionality reduction.
    
-   ----- Reduces n-dimensional space to d-dimensional space where n<d.
+   ----- Reduces n-dimensional space to d-dimensional space where d<n.
    
    ----- Unsupervised Learning Algorithm because it dont care about dependent variable it only cares about finding the Component Axes.
    
